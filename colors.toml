@@ -1,0 +1,31 @@
+# 珠峰·夜 Zhufeng Night — 高原星空为底、雪白为字、冰川蓝为印、经幡五色点缀。浅色版见 zhufeng。
+mode = "dark"
+accent = "#8FB8F0"
+selection = "#1B2C4E"
+muted = "#566378"
+
+background = "#0B1220"
+dark_background = "#070C15"
+darker_background = "#030509"
+lighter_background = "#131F37"
+
+foreground = "#E2E8F0"
+dark_foreground = "#8490A2"
+light_foreground = "#BCC6D4"
+bright_foreground = "#E2E8F0"
+
+red = "#EE6A64"
+yellow = "#E8C856"
+orange = "#EE9650"
+green = "#62CC90"
+cyan = "#58C4DC"
+blue = "#8FB8F0"
+magenta = "#D48CE0"
+brown = "#BCA088"
+
+bright_red = "#F28D89"
+bright_yellow = "#EDD47A"
+bright_green = "#81D6A6"
+bright_cyan = "#7AD0E3"
+bright_blue = "#B3CFF5"
+bright_magenta = "#E0ACE9"
