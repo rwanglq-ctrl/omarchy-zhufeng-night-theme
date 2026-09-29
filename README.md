@@ -1,6 +1,6 @@
 # 珠峰·夜 Zhufeng Night
 
-高原星空为底、雪白为字、冰川蓝为印的深色主题，浅色版为 zhufeng。
+高原星空为底、雪白为字、冰川蓝为印的深色主题。
 
 壁纸来源（按授权要求署名；CC BY-SA 作品的改编版同样以 CC BY-SA 提供）：
 1. Sunset view of Everest.jpg — Nir B. Gurung，CC BY-SA 4.0（Wikimedia Commons）
