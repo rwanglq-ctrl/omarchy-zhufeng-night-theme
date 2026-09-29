@@ -16,3 +16,10 @@ omarchy theme install https://github.com/rwanglq-ctrl/omarchy-zhufeng-night-them
 ```
 
 ![preview](preview.png)
+
+## 许可
+
+- 壁纸与预览图：CC BY-SA 4.0
+- 配色与配置文件：MIT
+
+详见 [LICENSE](LICENSE)。
